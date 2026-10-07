@@ -1,3 +1,6 @@
+// this a crude version of the opay system with 
+// password trail limit etc...
+
 let balance=1000;
 function deposit(user){
     if (user > 100000){
